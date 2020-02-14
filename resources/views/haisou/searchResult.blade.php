@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Search result</title>
+	<title>Search results</title>
 	<style type="text/css">
 		button{
 			margin: 5px;
